@@ -1,0 +1,2 @@
+Chessboard Pattern size | Chessboard square size   | ChArUco size | ChArUco squares (mm) | Step x (mm) | Step y (mm) | Step z (mm)| Estimated cam2gripper it| cam2gripper iterations |Rotation range (deg)| 
+	9 6 			0.0255 			5 7 		0.03523 0.02096    		10        10      	50              6                         20 		   	15 

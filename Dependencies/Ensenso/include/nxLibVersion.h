@@ -1,0 +1,9 @@
+#pragma once
+
+#define NXLIB_VERSION_YEAR   24
+#define NXLIB_VERSION_MONTH  4
+#define NXLIB_VERSION_DAY    17
+
+#define NXLIB_VERSION_MAJOR  3
+#define NXLIB_VERSION_MINOR  6
+#define NXLIB_VERSION_BUILD  1621
